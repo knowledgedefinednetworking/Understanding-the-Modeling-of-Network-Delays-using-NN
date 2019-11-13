@@ -16,7 +16,7 @@ The research community has considered in the past the application of Artificial 
 
 ## Different datasets (different topologies, sizes and traffic characteristics)
 
-Datasets available here [here](http://knowledgedefinednetworking.org/).
+Datasets available [here](http://knowledgedefinednetworking.org/).
 
 
 ---
